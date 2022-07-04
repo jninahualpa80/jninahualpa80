@@ -1,4 +1,4 @@
-### Hi my name is :man: Juan 👋
+### :man: Hi my name is  Juan 👋
 
 I’m a information Technology professional with 3+ years of experience in Manual Testing with STLC(Software Testing Life Cycle),and Automation Testing tools, I am very interested in the opportunity to apply my skills and experience to improve the quality in the life cycle of the software.
 
