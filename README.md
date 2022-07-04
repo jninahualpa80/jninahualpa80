@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 ### **Contact Details:**
 - 	:mailbox: [Email](mailto:jninahualpa@gmail.com)
+-   :link:[Linkedin](https://www.linkedin.com/in/juanninahualpa/)
 
 
 
