@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**jninahualpa80/jninahualpa80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a information Technology professional with 3+ years of experience in Manual Testing with STLC(Software Testing Life Cycle),and Automation Testing tools, I am very interested in the opportunity to apply my skills and experience to improve the quality in the life cycle of the software.
+
 
 Here are some ideas to get you started:
 
