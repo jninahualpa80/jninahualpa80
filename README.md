@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I am currently looking for a new job opportunity
 - 🌱 I’m currently learning automation Testing, Python
 
-# **Contact Details:**
-[mail](mailto:jninahualpa@gmail.com)
+### **Contact Details:**
+- 	:mailbox: [mail](mailto:jninahualpa@gmail.com)
 
 
 
